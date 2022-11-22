@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-i am local
-=======
-i am from origin.
->>>>>>> origin/main
+Hello i am from local.
