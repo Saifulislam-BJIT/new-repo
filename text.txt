@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 again pusll.
-=======
-Hello i am from local
->>>>>>> origin/main
