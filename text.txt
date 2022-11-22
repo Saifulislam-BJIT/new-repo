@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am form master branch.
+=======
+This is a text file.
+>>>>>>> 4a8936ee3f5ab43b78213a01eccc1dd68b5db333
