@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mater.local
+=======
+local mater.ok
+>>>>>>> origin/master
